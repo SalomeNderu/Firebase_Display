@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953294176979",
+    "project_id": "fir-display-d179c",
+    "storage_bucket": "fir-display-d179c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953294176979:android:3db8f2fcd855fdd2998a26",
+        "android_client_info": {
+          "package_name": "com.example.firebase_display"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953294176979-8lbiuaqegq6fhc1jtasoerk1g85uebdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWwiA5-v_H05W2CxgLFALiR49qN6Zoz84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953294176979-8lbiuaqegq6fhc1jtasoerk1g85uebdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
