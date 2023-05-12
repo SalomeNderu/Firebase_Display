@@ -50,4 +50,3 @@ import android.widget.TextView
         }
     }
 
-}
